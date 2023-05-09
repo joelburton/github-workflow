@@ -1,6 +1,8 @@
 const a = 1;
 const aa = 10;
 const aaa = 100;
+const aaaa = 1000;
+const aaaaa = 10000;
 
 function sub(x, y) {
   return x - y;
