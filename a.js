@@ -1,4 +1,5 @@
 const a = 1;
+const aa = 10;
 
 function sub(x, y) {
   return x - y;
