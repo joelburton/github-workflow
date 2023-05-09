@@ -13,3 +13,5 @@ function other(z) {
   // some other function ...
   return z * 100;
 }
+
+function other2() { }
